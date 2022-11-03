@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:patient xmlns:tns="http://www.btjerome.com/Patient"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.btjerome.com/Patient Patient.xsd ">
-	<tns:id>1</tns:id>
-	<tns:name>bharath</tns:name>
-	<tns:age>33</tns:age>
-	<tns:dob>1987-07-01</tns:dob>
-	<tns:email>bharath@bharath.com</tns:email>
-	<tns:gender>M</tns:gender>
-	<tns:phone>44231233311</tns:phone>
+<tns:patient xmlns:tns="http://www.btjerome.com/Patient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.btjerome.com/Patient Patient.xsd ">
+  <tns:id>12</tns:id>
+  <tns:name>xxxxxx</tns:name>
+  <tns:age>0</tns:age>
+  <tns:dob>2001-01-01</tns:dob>
+  <tns:email>tns:email</tns:email>
+  <tns:gender>M</tns:gender>
+  <tns:phone>tns:phone</tns:phone>
 </tns:patient>
