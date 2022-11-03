@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.btjerome.com/Patient"
-	xmlns:tns="http://www.btjerome.com/Patient" elementFormDefault="qualified">
+	xmlns:tns="http://www.btjerome.com/Patient" elementFormDefault="unqualified">
 
 	<element name="patient" type="tns:Patient" />
 

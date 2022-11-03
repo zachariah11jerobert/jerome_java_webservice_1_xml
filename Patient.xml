@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:patient xmlns:tns="http://www.btjerome.com/Patient"
+<patient xmlns:tns="http://www.btjerome.com/Patient"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.btjerome.com/Patient Patient.xsd ">
 
 	<!-- ID maxOccurs 2 times -->
-	<tns:id>123</tns:id>
-	<tns:id>123</tns:id>
+	<id>123</id>
+	<id>123</id>
 
-	<tns:name>tns:name</tns:name>
+	<name>name</name>
 
 	<!-- Age is optional due to minOccurs=0 -->
 
-	<tns:dob>2001-01-01</tns:dob>
+	<dob>2001-01-01</dob>
 
 	<!-- Email maxOccurs unbounded times -->
-	<tns:email>tns:email</tns:email>
-	<tns:email>tns:email</tns:email>
-	<tns:email>tns:email</tns:email>
+	<email>email</email>
+	<email>email</email>
+	<email>email</email>
 
-	<tns:gender>M</tns:gender>
-	<tns:phone>tns:phone</tns:phone>
-	<tns:payment>
-		<tns:insurance>
-			<tns:provider>Blue Cross</tns:provider>
-			<tns:limit>1000</tns:limit>
-		</tns:insurance>
-	</tns:payment>
-</tns:patient>
+	<gender>M</gender>
+	<phone>phone</phone>
+	<payment>
+		<insurance>
+			<provider>Blue Cross</provider>
+			<limit>1000</limit>
+		</insurance>
+	</payment>
+</patient>
